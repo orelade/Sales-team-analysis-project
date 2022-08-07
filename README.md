@@ -1,7 +1,7 @@
 # Sales-team-analysis-project
 This is the analysis of sales data for a team of sales persons stakeholders.
 
-in this report i created a data model,measures and columns in power bi to derive a user centred dashboard 
+in this report i created a data model,dax measures and columns in power bi to derive a user centred dashboard for better business decisions.
 -----------------------------------------------------------------------------------------------
 Welcome text = 
 VAR Hour = HOUR(NOW())
